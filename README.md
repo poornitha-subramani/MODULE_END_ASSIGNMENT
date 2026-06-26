@@ -35,6 +35,8 @@ The dataset contains approximately 100 product records with the following fields
 - Filled missing Cost values using the Average.
 - Filled missing Stock values using the Median.
 - Standardized Product ID formatting.
+- Made the Cost values as Currency Format
+- Made the Stock values as Whole Number Format 
 
 ## 📈 Excel Functions Used
 - AVERAGE()
